@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchArtistHint">Enter Artist Name</string>
+    <string name="title_activity_artist_tracks">ArtistTracksActivity</string>
+
+    <string name="TopTenTrackName">Top 10 Tracks</string>
+</resources>
